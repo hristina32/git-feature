@@ -1,1 +1,1 @@
-console.log('version 2 updated');
+console.log('feature 2 version');
